@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Benjamin D W Truman
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Technologist & life critic
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I teach myself things and learn from others, aiming to be a better person than I was yesterday.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+- Social Economics
+- Philosophy
+- History
+- Open source technologies
+- Libertarianism
+- Edge & retro technologies
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +35,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: mailto:ben@truman.me.uk
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://noagendasocial.com/@b3nji
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +56,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+## I will always be a student of technology, people and our ever-changing world we all live in. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My profession has been in the building automation sector for over 14 years. Initially starting as a commissioning engineer, then as a field-based engineer, moving on to a more senior role within my team. 
+
+Currently, I am a service delivery expert. I teach myself and work with our companies bleeding-edge technology solutions, from [Linux](https://www.linux.com/what-is-linux/)  based small servers to the best [IoT](https://en.wikipedia.org/wiki/Internet_of_Things) (internet of things) has to offer. I work with my team to keep them up to date with the best ways to roll out our solutions. In turn, we enable our customers to intelligently control their buildings via our applications and third-party integrations.  
+
+I enjoy studying past, present and future works so I can learn, enlighten and see trends of our future society. Political issues and social change is something that interests me most of all. My studies have led me to become a [group leader](https://libertarianparty.co.uk/our-people/) for the Libertarian Party UK. 
+
+I believe that freely sharing and discussing ideas is fundamental to better our society.
