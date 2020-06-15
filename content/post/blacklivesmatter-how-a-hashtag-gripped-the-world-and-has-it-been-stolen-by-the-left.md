@@ -1,6 +1,7 @@
 +++
 authors = ["Ben Truman"]
 date = 2020-06-15T18:15:00Z
+draft = true
 featured = false
 projects = []
 subtitle = "Have Black Lives Matter been taking over by a left leaning agenda?"
