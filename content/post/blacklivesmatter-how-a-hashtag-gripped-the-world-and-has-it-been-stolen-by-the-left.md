@@ -18,7 +18,7 @@ In [July 2013](https://www.theguardian.com/world/2015/jul/19/blacklivesmatter-bi
 
 Garza's message was brought about by the trial of George Zimmerman, a neighbourhood watch volunteer in Sanford, Florida. He had shot dead a 17-year-old African-American by the name of Trayvon Martin in February of the preceding year. Martin had been unarmed, on his way back from a shop.
 
-Garza’s close friend, Patrisse Cullors, read the post in a motel room 300 miles away from Oakland that same night. Cullors, also a community organiser working in prison reform, started sharing Garza’s words with her friends online. She used a hashtag each time she reposted: [#blacklivesmatter](https://www.jtnews.org/all-news/search/.hash.blacklivesmatter). The following day, Garza and Cullors spoke about how they could organise a campaign around these sentiments.
+Garza’s close friend, Patrisse Cullors, read the post in a motel room 300 miles away from Oakland that same night. Cullors, also a community organiser working in prison reform, started sharing Garza’s words with her friends online. She used a hashtag each time she reposted: #blacklivesmatter. The following day, Garza and Cullors spoke about how they could organise a campaign around these sentiments.
 
 Little did they know that their hash tag and actions would be used to engulf the world in race protests, and inspire the removal of prominent statues as far as London 6 years later.
 
